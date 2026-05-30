@@ -1,0 +1,11 @@
+{
+  "name": "traffic-dashboard-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.19.2",
+    "mysql2": "^3.22.4",
+    "node-fetch": "^2.7.0"
+  }
+}
